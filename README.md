@@ -1,4 +1,4 @@
 # Banda Aleatoria 
 Banda aleatoria - Modelos 1
-Nicolás Góngora - 20151020008 (Autor)
-Carlos Camacho - 20151020034 (Autor)
+<br>Nicolás Góngora - 20151020008 (Autor)
+<br>Carlos Camacho - 20151020034 (Autor)
